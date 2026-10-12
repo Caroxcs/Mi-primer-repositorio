@@ -1,0 +1,21 @@
+Algoritmo DiaDeLaSemana()
+inicio 
+	Escribir "ingrese un numero del 1 al 7"
+	leer numero 
+	segun numero hacer 
+		1:
+			Escribir "lunes"
+		2:
+			Escribir "martes"
+		3: 
+			Escribir "miercoles"
+		4:
+			Escribir "jueves"
+		5:
+			Escribir "viernes"
+		6:
+			Escribir "sabado"
+		7: 
+			Escribir "domingo"	
+	FinSegun
+Fin
