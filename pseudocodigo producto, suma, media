@@ -1,0 +1,17 @@
+algoritmo MediaArimetica()
+inicio
+  Escribir "ingrese numero 1"
+  leer a
+  Escribir "ingrese numero 2"
+  leer b
+  Escribir "ingrese numero 3"
+  leer c
+  Escribir "ingrese numero 4"
+  leer d
+  sumar = a + b + c + d
+  producto = a * b * c * d
+  madia = suma / 4
+  Escribir "suma: ", suma 
+  Escribir "Producto: ", producto
+	Escribir "Media aritmética: ", media
+Fin
