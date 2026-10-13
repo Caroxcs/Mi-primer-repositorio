@@ -1,0 +1,9 @@
+Algoritmo Circunferencia()
+inicio 
+  Escribir "ingrese el radio de la circinferencia"
+  leer r 
+  longitud = 2 * r * pi
+  Area = pi * r * r
+  Escribir "Longitud: ", longitud
+	Escribir "Area: ", area
+fin
