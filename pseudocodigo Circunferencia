@@ -5,5 +5,5 @@ inicio
   longitud = 2 * r * pi
   Area = pi * r * r
   Escribir "Longitud: ", longitud
-	Escribir "Area: ", area
+  Escribir "Area: ", area
 fin
